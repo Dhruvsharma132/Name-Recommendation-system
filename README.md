@@ -14,6 +14,4 @@ tion of photographs each labeled with a common first name, to
  links between appearance and identity. The implications of our
  research are vast, extending from enhancing user interactions on
  digital platforms to opening new pathways in digital forensics
- and cultural studies. Through this study, we aim to foster a
- deeper appreciation of how technology can bring us closer to
- unraveling the 
+ and cultural studies. 
